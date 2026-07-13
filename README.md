@@ -48,7 +48,7 @@ Pokud se vám naše práce líbí, budeme rádi za hvězdičku (star) ⭐ u toho
 
 Potřebujete odbornou instalaci nebo rozvoj e-shopu?
 
-Pokud nechcete ztrácet čas konfigurací, naši specialisté vám modul odborně nainstalují a otestují přímo na vašem webu za fixní poplatek 990 Kč bez DPH. Napište nám na marketing@gigula.cz nebo navštivte naši přistávací stránku.
+Pokud nechcete ztrácet čas konfigurací, naši specialisté vám modul odborně nainstalují a otestují přímo na vašem webu za fixní poplatek 990 Kč bez DPH. Napište nám na marketing@gigula.cz nebo navštivte náš web www.gigula.cz.
 
 🇬🇧 English Description
 

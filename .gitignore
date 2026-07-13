@@ -1,0 +1,23 @@
+systémové soubory operačních systémů
+
+.DS_Store
+Thumbs.db
+*.log
+
+Vývojářské ZIPy (aby se do Gitu nedostal omylem zabalený modul)
+
+*.zip
+*.tar.gz
+
+IDE / Editory
+
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+
+PHPUnit a testy (pokud byste v budoucnu přidali)
+
+/vendor/
+composer.lock

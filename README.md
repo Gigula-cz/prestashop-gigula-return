@@ -2,6 +2,12 @@ Gigula.cz Odstoupení od smlouvy (gigulareturn)
 
 Bezpečný, ultra lehký a legislativně neprůstřelný open-source modul pro elektronické odstoupení od smlouvy do 14 dnů na platformě PrestaShop (1.7.x a 8.x). Vyvinuto s láskou k české e-commerce komunitě týmem gigula.cz.
 
+[!WARNING] POZOR PŘI STAŽENÍ Z GITHUBU: Pokud stáhnete tento repozitář přes zelené tlačítko Code ➔ Download ZIP, stažený soubor v PrestaShopu nebude fungovat (kvůli špatnému názvu složky, kterou GitHub automaticky generuje).
+
+Vždy stahujte pouze oficiální připravený instalační balíček zde:
+➔ Stáhnout funkční gigulareturn.zip (přímo z gigula.cz) (Doporučeno)
+➔ Stáhnout funkční balíček z GitHub Releases
+
 🇨🇿 Proč tento modul potřebujete?
 
 Evropská legislativa (tzv. „tlačítková novela“) ukládá e-shopům přísné podmínky pro odstoupení od smlouvy do 14 dnů. Běžný kontaktní formulář nebo statické PDF ke stažení již při kontrole České obchodní inspekce (ČOI) nemusí obstát.
@@ -22,7 +28,7 @@ Nouzový mailer fallback: Pokud na hostingu selže standardní odesílání pře
 
 🚀 Instalace
 
-Stáhněte si instalační ZIP balíček z gigula.cz (případně si zabalte složku gigulareturn z tohoto repozitáře).
+Stáhněte si instalační ZIP balíček z gigula.cz (případně si stáhněte ZIP ze sekce Releases).
 
 V administraci PrestaShopu přejděte do sekce Moduly > Správce modulů (Modules > Module Manager).
 
@@ -48,11 +54,19 @@ Pokud se vám naše práce líbí, budeme rádi za hvězdičku (star) ⭐ u toho
 
 Potřebujete odbornou instalaci nebo rozvoj e-shopu?
 
-Pokud nechcete ztrácet čas konfigurací, naši specialisté vám modul odborně nainstalují a otestují přímo na vašem webu za fixní poplatek 990 Kč bez DPH. Napište nám na marketing@gigula.cz nebo navštivte náš web www.gigula.cz.
+Pokud nechcete ztrácet čas konfigurací, naši specialisté vám modul odborně nainstalují a otestují přímo na vašem webu za fixní poplatek 990 Kč bez DPH. Napište nám na marketing@gigula.cz nebo navštivte naši přistávací stránku.
 
 🇬🇧 English Description
 
 A lightweight, secure, and legally compliant open-source PrestaShop module for electronic contract withdrawal (14-day return form) compatible with PrestaShop 1.7.x and 8.x.
+
+[!WARNING]
+DO NOT DOWNLOAD USING THE GREEN "CODE" BUTTON:
+Downloading this repository as a ZIP from the main page will not work because GitHub appends "-main" to the folder name, which PrestaShop rejects.
+
+Always download the working installation package here:
+➔ Download working gigulareturn.zip (from gigula.cz)
+➔ Download working package from GitHub Releases
 
 Key Features:
 

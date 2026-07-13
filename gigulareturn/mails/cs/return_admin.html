@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Nové odstoupení od smlouvy</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f6f6f6; margin: 0; padding: 20px; color: #333333;">
+    <div style="max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 8px; padding: 30px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); border: 1px solid #e9e9e9;">
+        <div style="text-align: center; margin-bottom: 30px; border-bottom: 2px solid #efefef; padding-bottom: 20px;">
+            <h1 style="color: #1e293b; font-size: 22px; margin: 0;">Nové odstoupení od smlouvy (14 dnů)</h1>
+            <p style="color: #64748b; font-size: 14px; margin: 5px 0 0 0;">Odesláno z e-shopu {shop_name}</p>
+        </div>
+        
+        <table style="width: 100%; border-collapse: collapse; margin-bottom: 25px;">
+            <tr>
+                <td style="padding: 10px; border-bottom: 1px solid #f1f5f9; font-weight: bold; width: 40%; color: #475569;">Kód/Číslo objednávky:</td>
+                <td style="padding: 10px; border-bottom: 1px solid #f1f5f9; color: #0f172a;">{order_ref}</td>
+            </tr>
+            <tr>
+                <td style="padding: 10px; border-bottom: 1px solid #f1f5f9; font-weight: bold; color: #475569;">E-mail zákazníka:</td>
+                <td style="padding: 10px; border-bottom: 1px solid #f1f5f9; color: #0f172a;"><a href="mailto:{customer_email}" style="color: #4f46e5; text-decoration: none;">{customer_email}</a></td>
+            </tr>
+        </table>
+
+        <div style="background-color: #f8fafc; border-radius: 6px; padding: 20px; border-left: 4px solid #4f46e5; margin-bottom: 25px;">
+            <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 15px; color: #1e293b;">Vracené zboží a množství:</h3>
+            <p style="margin: 0; line-height: 1.6; color: #334155; white-space: pre-line;">{returned_items}</p>
+        </div>
+
+        <p style="font-size: 12px; color: #94a3b8; text-align: center; margin: 0;">Toto je automatické oznámení z modulu GigulaReturn.</p>
+    </div>
+</body>
+</html>

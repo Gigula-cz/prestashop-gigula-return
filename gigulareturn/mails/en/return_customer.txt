@@ -1,0 +1,13 @@
+Potvrzení o přijetí odstoupení od smlouvy - {shop_name}
+
+Vážený zákazníku,
+
+tímto potvrzujeme přijetí Vašeho elektronického oznámení o odstoupení od smlouvy k objednávce č. {order_ref}.
+
+Seznam vraceného zboží:
+{returned_items}
+
+Vaši žádost zpracujeme bez zbytečného odkladu a budeme Vás brzy kontaktovat ohledně vrácení peněžních prostředků.
+
+S pozdravem,
+Tým {shop_name}

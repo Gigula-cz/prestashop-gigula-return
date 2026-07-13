@@ -1,0 +1,9 @@
+Nové odstoupení od smlouvy v 14denní lhůtě na e-shopu {shop_name}
+
+Kód/Číslo objednávky: {order_ref}
+E-mail zákazníka: {customer_email}
+
+Vracené zboží a množství:
+{returned_items}
+
+Odesláno automaticky z webového formuláře modulu GigulaReturn.
